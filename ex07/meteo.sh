@@ -1,0 +1,1 @@
+alias meteoLyon='curl http://wttr.in/Lyon'

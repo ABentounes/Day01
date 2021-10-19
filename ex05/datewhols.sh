@@ -1,0 +1,1 @@
+date >> datewhols.txt | who >> datewhols.txt  | ls >> datewhols.txt 
